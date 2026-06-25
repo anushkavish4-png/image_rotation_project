@@ -1,2 +1,2 @@
 # image_rotation_project
-A simple Image Rotation project built using HTML, CSS, and JavaScript. This project allows users to rotate images interactively and demonstrates basic image manipulation techniques.
+A responsive Image Rotation web application built using HTML, CSS, and JavaScript. The project demonstrates image transformation, DOM manipulation, and interactive user controls for rotating images dynamically.
